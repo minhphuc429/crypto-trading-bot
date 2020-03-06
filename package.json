@@ -21,7 +21,7 @@
     "better-queue": "^3.8.10",
     "better-sqlite3": "^6.0.1",
     "binance-api-node": "^0.9.16",
-    "bitfinex-api-node": "^4.0.7",
+    "bitfinex-api-node": "^4.0.10",
     "bitmex-realtime-api": "^0.4.0",
     "ccxt": "^1.23.67",
     "coinbase-pro": "^0.9.0",
