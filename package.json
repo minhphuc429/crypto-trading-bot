@@ -34,7 +34,7 @@
     "lodash": "^4.17.11",
     "mocha": "^7.1.0",
     "moment": "^2.22.2",
-    "nodemailer": "^6.4.5",
+    "nodemailer": "^6.4.6",
     "numbro": "^2.1.1",
     "p-queue": "^6.3.0",
     "patch-package": "^6.2.1",
