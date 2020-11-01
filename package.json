@@ -35,7 +35,7 @@
     "mocha": "^7.1.2",
     "moment": "^2.25.1",
     "nodemailer": "^6.4.6",
-    "numbro": "^2.2.0",
+    "numbro": "^2.3.2",
     "p-queue": "^6.3.0",
     "patch-package": "^6.2.2",
     "percent": "^2.2.0",
